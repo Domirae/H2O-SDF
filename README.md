@@ -10,7 +10,7 @@
 
 
 <p align="center">
-![](./assets/abstract.gif)
+  <img  src="./assets/abstract.gif">
 </p>
 
 
