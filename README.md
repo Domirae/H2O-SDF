@@ -8,9 +8,10 @@
   <div align="center"></div>
 </p>
 
+
+<p align="center">
 ![](./assets/abstract.gif)
-
-
+</p>
 
 
 ## Method
