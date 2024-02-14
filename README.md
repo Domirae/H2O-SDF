@@ -3,8 +3,8 @@
 
 <p align="center">
 
-  <h1 align="center">H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields</h1>
-  #####  <p align="center"> Minyoung Park, Mirae Do, Yeon Jae Shin, Jaeseok Yoo, Jongkwang Hong, Joongrock Kim, Chul Lee</p>
+<h1 align="center">H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields</h1>
+<p align="center"> Minyoung Park, Mirae Do, Yeon Jae Shin, Jaeseok Yoo, Jongkwang Hong, Joongrock Kim, Chul Lee</p>
 
   <h2 align="center">ICLR 2024 (Spotlight)</h2>
   <h3 align="center"><a href="https://arxiv.org/abs/2402.08138">Paper</a> | <a href="https://domirae.github.io/">Project Page</a> </h3>
