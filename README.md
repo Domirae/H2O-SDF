@@ -1,6 +1,3 @@
-# H2O-SDF
-
-
 <p align="center">
 
 <h1 align="center">H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields</h1>
