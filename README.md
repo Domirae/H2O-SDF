@@ -8,7 +8,6 @@
   <div align="center"></div>
 </p>
 
-## Abstract 
 <p align="center">
   <img  src="./assets/abstract.gif">
 </p>
