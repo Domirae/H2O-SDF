@@ -1,9 +1,9 @@
 
 # <h1 align="center">H<sub>2</sub>O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields</h1>
-#### <p align="center"> [Minyoung Park](https://lzhnb.github.io/), Mirae Do, Yeon Jae Shin, Jaeseok Yoo, Jongkwang Hong, Joongrock Kim, Chul Lee</p>
+#### <p align="center"> [Minyoung Park](https://www.linkedin.com/in/minyoung-park-6636a9203/), Mirae Do, Yeon Jae Shin, Jaeseok Yoo, Jongkwang Hong, Joongrock Kim, Chul Lee</p>
 
 #### <h2 align="center">ICLR 2024 (Spotlight)</h2>
-<h3 align="center"><a href="https://www.linkedin.com/in/minyoung-park-6636a9203/">Paper</a> | <a href="https://domirae.github.io/">Project Page</a> </h3>
+<h3 align="center"><a href="https://arxiv.org/pdf/2402.08138.pdf">Paper</a> | <a href="https://domirae.github.io/">Project Page</a> </h3>
 
 <p align="center">
   <img  src="./assets/abstract.gif">
